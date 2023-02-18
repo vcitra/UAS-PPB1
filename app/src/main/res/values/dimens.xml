@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_corner_radius">40dp</dimen>
+    <dimen name="card_elevation">20dp</dimen>
+
+
+    <dimen name="card_margin">4dp</dimen>
+</resources>
